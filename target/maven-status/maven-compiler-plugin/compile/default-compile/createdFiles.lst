@@ -1,0 +1,9 @@
+com\alldevservices\annuaire\AnnuaireApplication.class
+com\alldevservices\annuaire\gestion\Personne.class
+com\alldevservices\annuaire\gestion\PersonneRestController.class
+com\alldevservices\annuaire\gestion\IPersonneServiceImpl.class
+com\alldevservices\annuaire\gestion\IPersonneDao.class
+com\alldevservices\annuaire\gestion\Pays.class
+com\alldevservices\annuaire\gestion\Genre.class
+com\alldevservices\annuaire\gestion\IPersonneService.class
+com\alldevservices\annuaire\ServletInitializer.class
